@@ -1,6 +1,6 @@
 import pytest 
 
-from principaç import soma #
+from principal import soma 
 
 
 def teste_soma():
